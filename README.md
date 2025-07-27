@@ -1,34 +1,34 @@
-# 🚀 وبسایت شخصی Personal Website
+# 🚀 Personal Website
 
-یک وب‌سایت ساده و ریسپانسیو شخصی.  
-
----
-
-## 🔗 لینک‌ها
-
-- 🔴 [مشاهده آنلاین (Live Demo)](https://sample-website-responsive.vercel.app/)
-- 🧠 [سورس‌کد در GitHub](https://sample-website-responsive.vercel.app/)
+A simple and fully responsive personal website built with modern web technologies.
 
 ---
 
-## ⚙️ تکنولوژی‌ها
+## 🔗 Links
+
+- 🔴 [Live Demo](https://sample-website-responsive.vercel.app/)
+- 🧠 [Source Code on GitHub](https://github.com/oos-amin/Sample-Website-Responsive)
+
+---
+
+## ⚙️ Technologies Used
 
 - HTML5  
-- CSS3 (Flexbox + طراحی واکنش‌گرا)  
-- JavaScript ES6  
-- Vercel برای انتشار پروژه
+- CSS3 (Flexbox + Responsive Design)  
+- JavaScript (ES6)  
+- Deployed via Vercel
 
 ---
 
-## ✨ امکانات پروژه
+## ✨ Features
 
-- ناوبری ساده و منوی اصلی
-- طراحی کاملاً ریسپانسیو برای موبایل و دسکتاپ
-- طراحی تمیز و مینیمال مناسب پروژه‌های معرفی
+- Simple navigation and clean main menu  
+- Fully responsive design for both mobile and desktop  
+- Clean and minimal layout suitable for personal/project showcasing
 
 ---
 
-## 📦  اجرا (در صورت نیاز توسعه)
+## 📦 Installation & Run (for development)
 
 ```bash
-git clone https://github.com/oos-amin/Sample-Website-Responsive-
+git clone https://github.com/oos-amin/Sample-Website-Responsive
