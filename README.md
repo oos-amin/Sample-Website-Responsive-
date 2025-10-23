@@ -16,7 +16,6 @@ A simple and fully responsive personal website built with modern web technologie
 - HTML5  
 - CSS3 (Flexbox + Responsive Design)  
 - JavaScript (ES6)  
-- Deployed via Vercel
 
 ---
 
