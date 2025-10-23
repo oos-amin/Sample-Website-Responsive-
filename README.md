@@ -6,7 +6,7 @@ A simple and fully responsive personal website built with modern web technologie
 
 ## 🔗 Links
 
-- 🔴 [Live Demo](https://sample-website-responsive.vercel.app/)
+- 🔴 [Live Demo](https://oos-amin.github.io/Sample-Website-Responsive-/)
 - 🧠 [Source Code on GitHub](https://github.com/oos-amin/Sample-Website-Responsive)
 
 ---
